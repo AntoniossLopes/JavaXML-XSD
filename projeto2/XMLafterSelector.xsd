@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="catalog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="book"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="book">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element ref="rating"/>
+        <xs:element ref="totalRatings"/>
+        <xs:element ref="bestSellerRank"/>
+        <xs:element ref="author"/>
+        <xs:element ref="publisher"/>
+        <xs:element ref="language"/>
+        <xs:element ref="description"/>
+        <xs:element ref="year"/>
+        <xs:element ref="date"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="rating" type="xs:decimal"/>
+  <xs:element name="totalRatings" type="xs:integer"/>
+  <xs:element name="bestSellerRank" type="xs:integer"/>
+  <xs:element name="author" type="xs:string"/>
+  <xs:element name="publisher" type="xs:string"/>
+  <xs:element name="language" type="xs:NCName"/>
+  <xs:element name="description" type="xs:string"/>
+  <xs:element name="year" type="xs:integer"/>
+  <xs:element name="date" type="xs:string"/>
+</xs:schema>

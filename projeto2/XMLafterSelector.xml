@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book id="3">
+        <title>Goodnight Moon</title>
+        <rating>4.28</rating>
+        <totalRatings>294461</totalRatings>
+        <bestSellerRank>77</bestSellerRank>
+        <author>Margaret Wise Brown</author>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <language>English</language>
+        <description>In a great green room, tucked away in bed, is a little bunny. Goodnight room, goodnight moon. And to all the familiar things in the softly lit room--to the picture of the three little bears sitting on chairs, to the clocks and his socks, to the mittens and the kittens, to everything one by one--the little bunny says goodnight.
+In this classic of children's literature, beloved by generations of readers and listeners, the quiet poetry of the words and the gentle, lulling illustrations combine to make a perfect book for the end of the day.
+This board book edition is the perfect size for little hands.</description>
+        <year>2011</year>
+        <date>24 Jun 2011</date>
+    </book>
+    <book id="4">
+        <title>Charlotte's Web</title>
+        <rating>4.17</rating>
+        <totalRatings>1346447</totalRatings>
+        <bestSellerRank>859</bestSellerRank>
+        <author>E B White</author>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <language>English</language>
+        <description>This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is just about perfect. This paperback edition includes a foreword by two-time Newbery winning author Kate DiCamillo.Some Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings for a little pig named Wilbur, who simply wants a friend. They also express the love of a girl named Fern, who saved Wilbur's life when he was born the runt of his litter.</description>
+        <year>2012</year>
+        <date>10 Apr 2012</date>
+    </book>
+    <book id="6">
+        <title>Matilda</title>
+        <rating>4.31</rating>
+        <totalRatings>576958</totalRatings>
+        <bestSellerRank>668</bestSellerRank>
+        <author>Roald Dahl</author>
+        <publisher>Penguin Putnam Inc</publisher>
+        <language>English</language>
+        <description>From the bestselling author of Charlie and the Chocolate Factory and The BFG! Matilda is a sweet, exceptional young girl, but her parents think she's just a nuisance. She expects school to be different but there she has to face Miss Trunchbull, a kid-hating terror of a headmistress. When Matilda is attacked by the Trunchbull she suddenly discovers she has a remarkable power with which to fight back. It'll take a superhuman genius to give Miss Trunchbull what she deserves and Matilda may be just the one to do it!</description>
+        <year>2007</year>
+        <date>16 Aug 2007</date>
+    </book>
+    <book id="7">
+        <title>The Trumpet of the Swan</title>
+        <rating>4.08</rating>
+        <totalRatings>67370</totalRatings>
+        <bestSellerRank>16107</bestSellerRank>
+        <author>E B White</author>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <language>English</language>
+        <description>Like the rest of his family, Louis is a trumpeter swan. But unlike his four brothers and sisters, Louis can't trumpet joyfully. In fact, he can't even make a sound. And since he can't trumpet his love, the beautiful swan Serena pays absolutely no attention to him.</description>
+        <year>2020</year>
+        <date>02 Sep 2020</date>
+    </book>
+    <book id="8">
+        <title>Classic Starts (R): Peter Pan</title>
+        <rating>4.22</rating>
+        <totalRatings>953</totalRatings>
+        <bestSellerRank>32298</bestSellerRank>
+        <author>J. M. Barrie</author>
+        <publisher>Sterling Publishing Co Inc</publisher>
+        <language>English</language>
+        <description>"All children grow up. All except one." That special child is Peter Pan, and since making his debut on the stage in 1904, this eternal youth has carried boys and girls off to magical, marvelous Neverland. It's a trip that all kids want to make, and with this easy-to-read version of the classic, everyone can fly "second to the right, and straight on till morning" with Peter. Along with Wendy, John, and Michael Darling, they'll meet the fairy Tinkerbell, the Lost Boys, and the menacing Captain Hook.</description>
+        <year>2009</year>
+        <date>03 Mar 2009</date>
+    </book>
+</catalog>
